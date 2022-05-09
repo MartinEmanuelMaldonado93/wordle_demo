@@ -1,0 +1,10 @@
+@import "./variables.module.scss";
+
+.row {
+    display: flex;
+    gap: $gap;
+    margin-bottom: $gap;
+    text-transform: uppercase;
+}
+
+
